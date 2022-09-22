@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_router_profile_project=self.webpackChunkreact_router_profile_project||[]).push([[481],{481:function(e,r,t){t.r(r);var c=t(184);r.default=function(){return(0,c.jsx)("section",{children:(0,c.jsx)("img",{src:"./images/ability.png",alt:"#"})})}}}]);
+//# sourceMappingURL=481.7a650c64.chunk.js.map

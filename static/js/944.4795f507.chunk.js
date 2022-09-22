@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_router_profile_project=self.webpackChunkreact_router_profile_project||[]).push([[944],{944:function(e,t,r){r.r(t);var n,c=r(168),i=r(444),o=r(184),p=i.ZP.section(n||(n=(0,c.Z)(["\n    height:660px;\n    text-indent:-9999px;\n    "])));t.default=function(){return(0,o.jsx)(p,{children:(0,o.jsx)("img",{src:"./images/home.png",alt:"#"})})}}}]);
+//# sourceMappingURL=944.4795f507.chunk.js.map
